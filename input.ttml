@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="es-ES">
+<head>
+<metadata nttm:movieID="81424205" nttm:packageID="2076354" nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="1a57ab2a-64a2-4a71-9bee-1a616f97a102"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:fontSize="6.000rh" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style1" tts:fontWeight="normal"/>
+<style xml:id="style2" tts:fontStyle="italic" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="96000000t" end="109200000t" region="region0"><span style="style1">[música inquietante]</span></p>
+<p xml:id="subtitle2" begin="282400000t" end="297600001t" region="region0"><span style="style1">¿Qué sabes de lo que me pasó?</span></p>
+<p xml:id="subtitle3" begin="335200000t" end="358000000t" region="region0"><span style="style1">Los vídeos de David Luque</span></p>
+<p xml:id="subtitle4" begin="358800000t" end="398800000t" region="region0"><span style="style1">acababan en una web que se llamaba Slide.</span></p>
+<p xml:id="subtitle5" begin="399600000t" end="416800000t" region="region0"><span style="style1">- ¿El logo era un tobogán?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle6" begin="417600000t" end="448400001t" region="region0"><span style="style1">Era un portal de Internet</span><br/><span style="style1">para fetichistas.</span></p>
+<p xml:id="subtitle7" begin="449200000t" end="470800000t" region="region0"><span style="style1">Amantes de lo prohibido.</span></p>
+<p xml:id="subtitle8" begin="478000000t" end="490400000t" region="region0"><span style="style1">Uno de muchos.</span></p>
+<p xml:id="subtitle9" begin="518800000t" end="532800000t" region="region0"><span style="style1">[ininteligible]</span></p>
+<p xml:id="subtitle10" begin="544000000t" end="555200001t" region="region0"><span style="style1">[chasquea] ¡Eh!</span></p>
+<p xml:id="subtitle11" begin="556000000t" end="568800000t" region="region0"><span style="style1">Que me mires a mí.</span></p>
+<p xml:id="subtitle12" begin="588000000t" end="614000000t" region="region0"><span style="style1">En esa web vi tu violación.</span></p>
+<p xml:id="subtitle13" begin="625600000t" end="639600000t" region="region0"><span style="style1">[latidos]</span></p>
+<p xml:id="subtitle14" begin="699200000t" end="712400000t" region="region0"><span style="style1">¿Cómo sabes que era yo?</span></p>
+<p xml:id="subtitle15" begin="725200000t" end="737600000t" region="region0"><span style="style1">[olas]</span></p>
+<p xml:id="subtitle16" begin="746400000t" end="758800000t" region="region0"><span style="style1">[James] </span><span style="style2">Eran tres.</span></p>
+<p xml:id="subtitle17" begin="766800001t" end="782800000t" region="region0"><span style="style2">Te violaron en la playa.</span></p>
+<p xml:id="subtitle18" begin="788800000t" end="805600000t" region="region0"><span style="style2">Tú te resististe.</span></p>
+<p xml:id="subtitle19" begin="806400000t" end="828000000t" region="region0"><span style="style2">- Tuvieron que golpearte.</span><br/><span style="style1">- [Miren grita]</span></p>
+<p xml:id="subtitle20" begin="833600000t" end="849200000t" region="region0"><span style="style1">[grita]</span></p>
+<p xml:id="subtitle21" begin="865600000t" end="879200000t" region="region0"><span style="style1">[grito distorsionado]</span></p>
+<p xml:id="subtitle22" begin="908800000t" end="919200000t" region="region0"><span style="style1">¿Tienes el vídeo?</span></p>
+<p xml:id="subtitle23" begin="920000000t" end="945600000t" region="region0"><span style="style1">Nunca guardaría algo así.</span></p>
+<p xml:id="subtitle24" begin="946400000t" end="969200000t" region="region0"><span style="style1">Pero ¿puedes identificar a mis agresores?</span></p>
+<p xml:id="subtitle25" begin="970000000t" end="991600000t" region="region0"><span style="style1">No salen mucho en el vídeo.</span></p>
+<p xml:id="subtitle26" begin="992400000t" end="1020000000t" region="region0"><span style="style1">Tampoco era a ellos</span><br/><span style="style1">a quienes prestaba atención.</span></p>
+<p xml:id="subtitle27" begin="1057600000t" end="1084000000t" region="region0"><span style="style1">- Pero puedo hacer otra cosa.</span><br/><span style="style1">- ¿El qué?</span></p>
+<p xml:id="subtitle28" begin="1091600000t" end="1108400000t" region="region0"><span style="style1">La página tenía un foro</span></p>
+<p xml:id="subtitle29" begin="1109200000t" end="1151200000t" region="region0"><span style="style1">donde los usuarios</span><br/><span style="style1">podían compartir contenido privado.</span></p>
+<p xml:id="subtitle30" begin="1159200000t" end="1188400000t" region="region0"><span style="style1">Eso sí, conseguir el acceso era caro.</span></p>
+<p xml:id="subtitle31" begin="1205600000t" end="1238000000t" region="region0"><span style="style1">Tengo una lista de los </span><span style="style2">nicknames</span><br/><span style="style1">de la gente de este foro.</span></p>
+<p xml:id="subtitle32" begin="1245600000t" end="1278400000t" region="region0"><span style="style1">Uno de ellos</span><br/><span style="style1">puede que sea el administrador.</span></p>
+<p xml:id="subtitle33" begin="1284400000t" end="1301600000t" region="region0"><span style="style1">Si lo encuentras a él,</span></p>
+<p xml:id="subtitle34" begin="1309600000t" end="1328000000t" region="region0"><span style="style1">encontrarás tu vídeo.</span></p>
+<p xml:id="subtitle35" begin="1337600000t" end="1352800000t" region="region0"><span style="style1">¿Qué quieres a cambio?</span></p>
+<p xml:id="subtitle36" begin="1370800001t" end="1384800000t" region="region0"><span style="style1">[música de tensión]</span></p>
+<p xml:id="subtitle37" begin="1407600000t" end="1419600000t" region="region0"><span style="style1">Diez mil euros.</span></p>
+<p xml:id="subtitle38" begin="1493600001t" end="1502400000t" region="region0"><span style="style1">[pitido]</span></p>
+<p xml:id="subtitle39" begin="1543200000t" end="1554800000t" region="region0"><span style="style1">Gracias.</span></p>
+<p xml:id="subtitle40" begin="1644400000t" end="1660000000t" region="region0"><span style="style1">[continúa la música de tensión]</span></p>
+<p xml:id="subtitle41" begin="1698800000t" end="1718800000t" region="region0"><span style="style1">[vomita]</span></p>
+<p xml:id="subtitle42" begin="1750400000t" end="1770400000t" region="region0"><span style="style1">[cisterna]</span></p>
+<p xml:id="subtitle43" begin="1785200000t" end="1808800000t" region="region0"><span style="style1">[jadea]</span></p>
+<p xml:id="subtitle44" begin="1845600000t" end="1865200000t" region="region0"><span style="style1">[jadea]</span></p>
+<p xml:id="subtitle45" begin="1866000000t" end="1878800000t" region="region0"><span style="style1">[inaudible]</span></p>
+<p xml:id="subtitle46" begin="1879600000t" end="1899600000t" region="region0"><span style="style1">[respira agitada]</span></p>
+<p xml:id="subtitle47" begin="1934000000t" end="1954000000t" region="region0"><span style="style1">[solloza]</span></p>
+<p xml:id="subtitle48" begin="2073600001t" end="2093600001t" region="region0"><span style="style1">[inaudible]</span></p>
+<p xml:id="subtitle49" begin="2102400000t" end="2122000000t" region="region0"><span style="style1">[grita]</span></p>
+<p xml:id="subtitle50" begin="2122800000t" end="2139200000t" region="region0"><span style="style1">[inaudible]</span></p>
+<p xml:id="subtitle51" begin="2158800000t" end="2186400000t" region="region0"><span style="style1">[inaudible]</span></p>
+<p xml:id="subtitle52" begin="2187200000t" end="2200400000t" region="region0"><span style="style1">[grita]</span></p>
+<p xml:id="subtitle53" begin="2242000000t" end="2279200000t" region="region0"><span style="style1">[inaudible]</span></p>
+<p xml:id="subtitle54" begin="2387600000t" end="2407600000t" region="region0"><span style="style1">[respira agitada]</span></p>
+<p xml:id="subtitle55" begin="2449200000t" end="2460400000t" region="region0"><span style="style1">[carraspea]</span></p>
+<p xml:id="subtitle56" begin="2494000000t" end="2502400000t" region="region0"><span style="style1">[pitido]</span></p>
+<p xml:id="subtitle57" begin="2503200000t" end="2523200000t" region="region0"><span style="style1">[tono de llamada]</span></p>
+<p xml:id="subtitle58" begin="2574000000t" end="2588400000t" region="region0"><span style="style1">Hola, ¿podemos vernos?</span></p>
+<p xml:id="subtitle59" begin="2622800000t" end="2631200000t" region="region0"><span style="style1">[se sorbe]</span></p>
+<p xml:id="subtitle60" begin="2632000000t" end="2641200000t" region="region0"><span style="style1">[pitido]</span></p>
+<p xml:id="subtitle61" begin="2655200000t" end="2667200001t" region="region0"><span style="style1">[suspira]</span></p>
+<p xml:id="subtitle62" begin="2770000000t" end="2779600000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle63" begin="2785600000t" end="2794000000t" region="region0"><span style="style1">Slide.</span></p>
+<p xml:id="subtitle64" begin="2801200000t" end="2811200000t" region="region0"><span style="style1">[Miren asiente]</span></p>
+<p xml:id="subtitle65" begin="2817200001t" end="2834000000t" region="region0"><span style="style1">¿Y estás haciendo un reportaje?</span></p>
+<p xml:id="subtitle66" begin="2834800000t" end="2860800000t" region="region0"><span style="style1">Creo que es</span><br/><span style="style1">donde David Luque colgaba sus vídeos.</span></p>
+<p xml:id="subtitle67" begin="2876000000t" end="2911200000t" region="region0"><span style="style1">¿Recuerdas el icono</span><br/><span style="style1">que había en el ordenador de su hijo?</span></p>
+<p xml:id="subtitle68" begin="2912000000t" end="2920400000t" region="region0"><span style="style1">¿El tobogán?</span></p>
+<p xml:id="subtitle69" begin="2921200000t" end="2931200000t" region="region0"><span style="style1">[Eduardo asiente]</span></p>
+<p xml:id="subtitle70" begin="2938400000t" end="2961200000t" region="region0"><span style="style1">Creo que es el logo de esa página web.</span></p>
+<p xml:id="subtitle71" begin="2962000000t" end="2973200000t" region="region0"><span style="style1">¿Cómo lo sabes?</span></p>
+<p xml:id="subtitle72" begin="2986800000t" end="3003600000t" region="region0"><span style="style1">Tengo una fuente bastante fiable.</span></p>
+<p xml:id="subtitle73" begin="3011200000t" end="3032000000t" region="region0"><span style="style1">¿Esa fuente es James Foster?</span></p>
+<p xml:id="subtitle74" begin="3062800000t" end="3079200000t" region="region0"><span style="style1">Después de lo de David Luque</span></p>
+<p xml:id="subtitle75" begin="3080000000t" end="3115200000t" region="region0"><span style="style1">estuve investigando sobre la red</span><br/><span style="style1">de porno ilegal que mencionaste,</span></p>
+<p xml:id="subtitle76" begin="3116000000t" end="3132800000t" region="region0"><span style="style1">preguntando aquí y allá.</span></p>
+<p xml:id="subtitle77" begin="3133600000t" end="3144000000t" region="region0"><span style="style1">¿Y qué encontraste?</span></p>
+<p xml:id="subtitle78" begin="3144800000t" end="3154800000t" region="region0"><span style="style1">A Slide.</span></p>
+<p xml:id="subtitle79" begin="3164800000t" end="3184400000t" region="region0"><span style="style1">Ahí había porno duro, muy duro.</span></p>
+<p xml:id="subtitle80" begin="3196000000t" end="3218400000t" region="region0"><span style="style1">Ilegal, sexo con menores.</span></p>
+<p xml:id="subtitle81" begin="3219200000t" end="3238400000t" region="region0"><span style="style1">Torturas, violaciones.</span></p>
+<p xml:id="subtitle82" begin="3243600000t" end="3260000000t" region="region0"><span style="style1">Solo aguantaron un par de años.</span></p>
+<p xml:id="subtitle83" begin="3260800000t" end="3286800000t" region="region0"><span style="style1">Creo que la cerraron</span><br/><span style="style1">en el 2010 o algo así.</span></p>
+<p xml:id="subtitle84" begin="3287600000t" end="3307200001t" region="region0"><span style="style1">¿Qué relación tiene con Foster?</span></p>
+<p xml:id="subtitle85" begin="3318400000t" end="3336000000t" region="region0"><span style="style1">[música inquietante suave]</span></p>
+<p xml:id="subtitle86" begin="3336800000t" end="3359200000t" region="region0"><span style="style1">Mantente alejada de Slide, Miren.</span></p>
+<p xml:id="subtitle87" begin="3364800000t" end="3398000000t" region="region0"><span style="style1">El rumor es que detrás de esa web</span><br/><span style="style1">había gente poderosa,</span></p>
+<p xml:id="subtitle88" begin="3398800000t" end="3418000000t" region="region0"><span style="style1">mafiosos de la Costa del Sol.</span></p>
+<p xml:id="subtitle89" begin="3422800000t" end="3450400000t" region="region0"><span style="style1">- Quizá algún empresario, algún político.</span><br/><span style="style1">- Foster.</span></p>
+<p xml:id="subtitle90" begin="3475200000t" end="3515600000t" region="region0"><span style="style1">Está bien. Cuando investigué a Slide,</span><br/><span style="style1">su nombre aparecía en todas partes.</span></p>
+<p xml:id="subtitle91" begin="3523200000t" end="3552400000t" region="region0"><span style="style1">Formaba parte de la organización,</span><br/><span style="style1">pero no era un pez gordo.</span></p>
+<p xml:id="subtitle92" begin="3553200000t" end="3576800000t" region="region0"><span style="style1">Era un lacayo, el que pasaba los recados.</span></p>
+<p xml:id="subtitle93" begin="3618800000t" end="3627200001t" region="region0"><span style="style1">Gracias.</span></p>
+<p xml:id="subtitle94" begin="3634000000t" end="3654000000t" region="region0"><span style="style1">Miren, ten cuidado.</span></p>
+<p xml:id="subtitle95" begin="3654800000t" end="3668400000t" region="region0"><span style="style1">Páginas como esa…</span></p>
+<p xml:id="subtitle96" begin="3679200000t" end="3696400000t" region="region0"><span style="style1">Ahí es donde viven los monstruos.</span></p>
+<p xml:id="subtitle97" begin="3869600000t" end="3883600000t" region="region0"><span style="style1">[graznidos de gaviota]</span></p>
+<p xml:id="subtitle98" begin="3914000000t" end="3934000000t" region="region0"><span style="style1">[olas]</span></p>
+<p xml:id="subtitle99" begin="3944800000t" end="3961200000t" region="region0"><span style="style1">[continúa la música inquietante]</span></p>
+<p xml:id="subtitle100" begin="3994000000t" end="4008400000t" region="region0"><span style="style1">¿Quieres algo de comer?</span></p>
+<p xml:id="subtitle101" begin="4017600000t" end="4030800000t" region="region0"><span style="style1">¿Algo de beber?</span></p>
+<p xml:id="subtitle102" begin="4037600000t" end="4050400000t" region="region0"><span style="style1">No quiero nada.</span></p>
+<p xml:id="subtitle103" begin="4058400000t" end="4074000000t" region="region0"><span style="style1">Todo negocio, entonces.</span></p>
+<p xml:id="subtitle104" begin="4074800000t" end="4088800000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle105" begin="4105200000t" end="4119200000t" region="region0"><span style="style1">[chisporroteo]</span></p>
+<p xml:id="subtitle106" begin="4174800000t" end="4188400000t" region="region0"><span style="style1">Aquí no hay 10 000 euros.</span></p>
+<p xml:id="subtitle107" begin="4189200000t" end="4208800000t" region="region0"><span style="style1">No, hay 6000.</span></p>
+<p xml:id="subtitle108" begin="4221200000t" end="4234000000t" region="region0"><span style="style1">[en inglés] No hay trato.</span></p>
+<p xml:id="subtitle109" begin="4239600000t" end="4248000000t" region="region0"><span style="style2">Bye-bye.</span></p>
+<p xml:id="subtitle110" begin="4258800000t" end="4270800000t" region="region0"><span style="style1">No tengo ese dinero.</span></p>
+<p xml:id="subtitle111" begin="4354000000t" end="4362400000t" region="region0"><span style="style1">Está bien.</span></p>
+<p xml:id="subtitle112" begin="4372800000t" end="4397600000t" region="region0"><span style="style1">Soy un trozo de pan,</span><br/><span style="style1">como decís los españoles.</span></p>
+<p xml:id="subtitle113" begin="4413200000t" end="4433200000t" region="region0"><span style="style1">Pasa y te daré lo que buscas.</span></p>
+<p xml:id="subtitle114" begin="4617600000t" end="4640000000t" region="region0"><span style="style1">- Cierra la puerta, por favor.</span><br/><span style="style1">- No.</span></p>
+<p xml:id="subtitle115" begin="4660000000t" end="4678000000t" region="region0"><span style="style1">No voy a hacerte daño.</span></p>
+<p xml:id="subtitle116" begin="4678800000t" end="4711200000t" region="region0"><span style="style1">- ¿Dónde está la lista?</span><br/><span style="style1">- Ahora, no tengas prisa.</span></p>
+<p xml:id="subtitle117" begin="4754400000t" end="4766000000t" region="region0"><span style="style1">¿Qué haces?</span></p>
+<p xml:id="subtitle118" begin="4766800000t" end="4786400000t" region="region0"><span style="style1">Podemos llegar a un acuerdo.</span></p>
+<p xml:id="subtitle119" begin="4798000000t" end="4830800000t" region="region0"><span style="style1">Tú quieres la lista.</span><br/><span style="style1">Yo quiero quedarme un poco de ti.</span></p>
+<p xml:id="subtitle120" begin="4874800000t" end="4900400000t" region="region0"><span style="style1">- Adiós.</span><br/><span style="style1">- No quiero verte desnuda.</span></p>
+<p xml:id="subtitle121" begin="4901200000t" end="4918400000t" region="region0"><span style="style1">No soy tan trivial.</span></p>
+<p xml:id="subtitle122" begin="4919200000t" end="4961200000t" region="region0"><span style="style1">Déjame hacerte un par de fotos</span><br/><span style="style1">y la lista de nombres será tuya.</span></p>
+<p xml:id="subtitle123" begin="4991600000t" end="5031200000t" region="region0"><span style="style1">Si quieres saber quiénes te violaron,</span><br/><span style="style1">necesitas esa lista.</span></p>
+<p xml:id="subtitle124" begin="5134400000t" end="5148400000t" region="region0"><span style="style1">[graznidos de gaviotas]</span></p>
+<p xml:id="subtitle125" begin="5163600000t" end="5183600000t" region="region0"><span style="style1">[música inquietante suave]</span></p>
+<p xml:id="subtitle126" begin="5354400001t" end="5378400000t" region="region0"><span style="style1">Tienes inocencia en la mirada,</span></p>
+<p xml:id="subtitle127" begin="5384000000t" end="5395600000t" region="region0"><span style="style1">como una niña.</span></p>
+<p xml:id="subtitle128" begin="5430400000t" end="5444400001t" region="region0"><span style="style1">[disparo de cámara]</span></p>
+<p xml:id="subtitle129" begin="5454000000t" end="5474000000t" region="region0"><span style="style1">Y eres obediente,</span></p>
+<p xml:id="subtitle130" begin="5480000000t" end="5490800000t" region="region0"><span style="style1">como una niña.</span></p>
+<p xml:id="subtitle131" begin="5523200001t" end="5539200000t" region="region0"><span style="style1">[disparo de cámara]</span></p>
+<p xml:id="subtitle132" begin="5589600000t" end="5603600000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle133" begin="5694400001t" end="5704000000t" region="region0"><span style="style1">[disparo de cámara]</span></p>
+<p xml:id="subtitle134" begin="5725200000t" end="5743200001t" region="region0"><span style="style1">[olas y graznidos de gaviotas]</span></p>
+<p xml:id="subtitle135" begin="5773200001t" end="5786000000t" region="region0"><span style="style1">[graznido de gaviota]</span></p>
+<p xml:id="subtitle136" begin="5810800000t" end="5824800000t" region="region0"><span style="style1">[música se atenúa]</span></p>
+<p xml:id="subtitle137" begin="5844000000t" end="5868800000t" region="region0"><span style="style1">[tiene náuseas]</span></p>
+<p xml:id="subtitle138" begin="5940400000t" end="5960400000t" region="region0"><span style="style1">[latidos acelerados]</span></p>
+<p xml:id="subtitle139" begin="6024400001t" end="6046400000t" region="region0"><span style="style1">[música se vuelve opresiva y cesa]</span></p>
+<p xml:id="subtitle140" begin="6054400001t" end="6068400000t" region="region0"><span style="style1">[sirena lejana]</span></p>
+<p xml:id="subtitle141" begin="6156400000t" end="6178400000t" region="region0"><span style="style1">[música electrónica de tensión]</span></p>
+<p xml:id="subtitle142" begin="6356800000t" end="6370000000t" region="region0"><span style="style1">[notificación de móvil]</span></p>
+<p xml:id="subtitle143" begin="6433600000t" end="6450800000t" region="region0"><span style="style1">- [notificación]</span><br/><span style="style1">- [cesa la música]</span></p>
+<p xml:id="subtitle144" begin="6470800000t" end="6487600000t" region="region0"><span style="style1">[trueno]</span></p>
+<p xml:id="subtitle145" begin="6502000000t" end="6522000000t" region="region0"><span style="style1">[música inquietante]</span></p>
+<p xml:id="subtitle146" begin="6777600000t" end="6797600000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle147" begin="7047200000t" end="7063200001t" region="region0"><span style="style1">[música se atenúa y cesa]</span></p>
+<p xml:id="subtitle148" begin="7316400000t" end="7330400000t" region="region0"><span style="style1">[ruido blanco]</span></p>
+<p xml:id="subtitle149" begin="7392000000t" end="7408000000t" region="region0"><span style="style1">[música inquietante suave]</span></p>
+<p xml:id="subtitle150" begin="7939600000t" end="7949600000t" region="region0"><span style="style1">[ruido blanco]</span></p>
+<p xml:id="subtitle151" begin="7950400000t" end="7966000000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle152" begin="8060400000t" end="8071600000t" region="region0"><span style="style1">[clic]</span></p>
+<p xml:id="subtitle153" begin="8109200000t" end="8121200000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle154" begin="8122000000t" end="8143600000t" region="region0"><span style="style1">[Chaparro teclea]</span></p>
+<p xml:id="subtitle155" begin="8144400001t" end="8169200000t" region="region0"><span style="style1">Si un chaval se tira por la ventana,</span><br/><span style="style1">ahí estás tú.</span></p>
+<p xml:id="subtitle156" begin="8182000000t" end="8213600000t" region="region0"><span style="style1">Si un colgado manda cintas</span><br/><span style="style1">de la niña secuestrada, es a ti.</span></p>
+<p xml:id="subtitle157" begin="8219600000t" end="8249200000t" region="region0"><span style="style1">Es raro, ¿no? Apareces en todos lados</span><br/><span style="style1">como los fantasmas.</span></p>
+<p xml:id="subtitle158" begin="8278400000t" end="8288400000t" region="region0"><span style="style1">Tengo una teoría.</span></p>
+<p xml:id="subtitle159" begin="8302400000t" end="8310800000t" region="region0"><span style="style1">¿Quieres oírla?</span></p>
+<p xml:id="subtitle160" begin="8316800000t" end="8325200000t" region="region0"><span style="style1">Dale.</span></p>
+<p xml:id="subtitle161" begin="8337600000t" end="8357200000t" region="region0"><span style="style1">¿Sabes por qué me envían a mí la cinta?</span></p>
+<p xml:id="subtitle162" begin="8400800000t" end="8424400001t" region="region0"><span style="style1">Porque me preocupo más por la niña</span><br/><span style="style1">que vosotros.</span></p>
+<p xml:id="subtitle163" begin="8438400000t" end="8454400001t" region="region0"><span style="style1">[grito de mujer]</span></p>
+<p xml:id="subtitle164" begin="8459600000t" end="8468400000t" region="region0"><span style="style1">Espérate aquí.</span></p>
+<p xml:id="subtitle165" begin="8544400001t" end="8556800000t" region="region0"><span style="style1">[Ana llorando] Mi niña…</span></p>
+<p xml:id="subtitle166" begin="8569200000t" end="8582000000t" region="region0"><span style="style1">Mi niña…</span></p>
+<p xml:id="subtitle167" begin="8611200000t" end="8635600000t" region="region0"><span style="style1">- Mi hija…</span><br/><span style="style1">- [Álvaro] ¿Qué quieren decir? ¿Eh?</span></p>
+<p xml:id="subtitle168" begin="8644400000t" end="8654800000t" region="region0"><span style="style1">¿Qué quieren decir?</span></p>
+<p xml:id="subtitle169" begin="8655600000t" end="8675200000t" region="region0"><span style="style1">¿Qué quieren decir con adiós?</span></p>
+<p xml:id="subtitle170" begin="8676000000t" end="8696800000t" region="region0"><span style="style1">- ¿Qué quieren decir?</span><br/><span style="style1">- Álvaro, no sabemos.</span></p>
+<p xml:id="subtitle171" begin="8697600000t" end="8712800000t" region="region0"><span style="style1">- ¿Dónde está?</span><br/><span style="style1">- No lo sabemos.</span></p>
+<p xml:id="subtitle172" begin="8713600000t" end="8740800000t" region="region0"><span style="style1">¡Nueve años!</span><br/><span style="style1">¿Qué quieren decir con &quot;adiós&quot;?</span></p>
+<p xml:id="subtitle173" begin="8750400000t" end="8768000000t" region="region0"><span style="style1">- Que van a matarla.</span><br/><span style="style1">- [Belén] No.</span></p>
+<p xml:id="subtitle174" begin="8768800000t" end="8792000000t" region="region0"><span style="style1">- Si no la han matado.</span><br/><span style="style1">- [Belén] No lo sabemos.</span></p>
+<p xml:id="subtitle175" begin="8792800000t" end="8820800000t" region="region0"><span style="style1">¿Y qué quiere decir, entonces? ¿Eh?</span></p>
+<p xml:id="subtitle176" begin="8834800000t" end="8850800000t" region="region0"><span style="style1">Dime que crees que está viva.</span></p>
+<p xml:id="subtitle177" begin="8857200000t" end="8866800000t" region="region0"><span style="style1">¡Dilo!</span></p>
+<p xml:id="subtitle178" begin="8891200000t" end="8928000000t" region="region0"><span style="style1">No puedo decírtelo porque no lo sé,</span><br/><span style="style1">pero te juro que no pararé de buscarla.</span></p>
+<p xml:id="subtitle179" begin="8941200000t" end="8962400000t" region="region0"><span style="style1">Más te vale encontrar a mi hija viva,</span></p>
+<p xml:id="subtitle180" begin="8970400000t" end="8985600000t" region="region0"><span style="style1">porque, si está muerta,</span></p>
+<p xml:id="subtitle181" begin="8991600000t" end="9016000000t" region="region0"><span style="style1">si no llegas a tiempo</span><br/><span style="style1">y está muerta por tu culpa,</span></p>
+<p xml:id="subtitle182" begin="9016800000t" end="9028400000t" region="region0"><span style="style1">te vas a acordar de mí.</span></p>
+<p xml:id="subtitle183" begin="9044000000t" end="9064400000t" region="region0"><span style="style1">Tú no sabes qué es ser madre.</span></p>
+<p xml:id="subtitle184" begin="9076400000t" end="9086400000t" region="region0"><span style="style1">No lo sabes.</span></p>
+<p xml:id="subtitle185" begin="9105200000t" end="9119600000t" region="region0"><span style="style1">[música melancólica]</span></p>
+<p xml:id="subtitle186" begin="9144400000t" end="9153600000t" region="region0"><span style="style1">[Ana solloza]</span></p>
+<p xml:id="subtitle187" begin="9165600000t" end="9184800000t" region="region0"><span style="style1">Haga su trabajo de una puta vez.</span></p>
+<p xml:id="subtitle188" begin="9425600000t" end="9434000000t" region="region0"><span style="style1">Belén,</span></p>
+<p xml:id="subtitle189" begin="9450800000t" end="9464400000t" region="region0"><span style="style1">esa mujer está muy dolida.</span></p>
+<p xml:id="subtitle190" begin="9486000000t" end="9498400000t" region="region0"><span style="style1">No sabe nada de ti.</span></p>
+<p xml:id="subtitle191" begin="9533600000t" end="9544000000t" region="region0"><span style="style1">Mírame.</span></p>
+<p xml:id="subtitle192" begin="9638800000t" end="9657200000t" region="region0"><span style="style1">¿Me puedes traer un café, por favor?</span></p>
+<p xml:id="subtitle193" begin="9762800000t" end="9771200000t" region="region0"><span style="style1">[suspira]</span></p>
+<p xml:id="subtitle194" begin="9863600000t" end="9873200000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle195" begin="9874000000t" end="9889600000t" region="region0"><span style="style1">[mujer] </span><span style="style2">Cariño, lo siento,</span></p>
+<p xml:id="subtitle196" begin="9898000000t" end="9938400000t" region="region0"><span style="style2">pero es mejor que empieces a aceptar</span><br/><span style="style2">que esa niña ya está muerta.</span></p>
+<p xml:id="subtitle197" begin="9939200000t" end="9970800000t" region="region0"><span style="style1">Eso no lo sé, mamá.</span><br/><span style="style1">Yo solo me fío de los hechos.</span></p>
+<p xml:id="subtitle198" begin="9980000000t" end="10021200000t" region="region0"><span style="style2">Estás obsesionada con este tema</span><br/><span style="style2">y no es bueno para ti, ya lo sabes.</span></p>
+<p xml:id="subtitle199" begin="10042000000t" end="10058800000t" region="region0"><span style="style1">Eh… Mamá, te cuelgo, ¿vale?</span></p>
+<p xml:id="subtitle200" begin="10078800000t" end="10093600000t" region="region0"><span style="style1">Bueno, bueno, bueno…</span></p>
+<p xml:id="subtitle201" begin="10099600000t" end="10108000000t" region="region0"><span style="style1">Miren,</span></p>
+<p xml:id="subtitle202" begin="10117200000t" end="10130800000t" region="region0"><span style="style1">el nuevo vídeo de Amaya</span></p>
+<p xml:id="subtitle203" begin="10131600000t" end="10166800000t" region="region0"><span style="style1">ha abierto todos los telediarios</span><br/><span style="style1">y es lo más seguido en redes sociales.</span></p>
+<p xml:id="subtitle204" begin="10167600000t" end="10202400000t" region="region0"><span style="style1">Hay famosos haciendo vídeos</span><br/><span style="style1">para que liberen a la niña.</span></p>
+<p xml:id="subtitle205" begin="10235200000t" end="10244000000t" region="region0"><span style="style1">¿Qué tal estás?</span></p>
+<p xml:id="subtitle206" begin="10257200000t" end="10268400000t" region="region0"><span style="style1">Bien.</span></p>
+<p xml:id="subtitle207" begin="10269200000t" end="10300000000t" region="region0"><span style="style1">Miren, yo sé</span><br/><span style="style1">que esto es muy duro para ti y que…</span></p>
+<p xml:id="subtitle208" begin="10310800000t" end="10326400001t" region="region0"><span style="style1">estás muy implicada en el caso,</span></p>
+<p xml:id="subtitle209" begin="10327200000t" end="10356800000t" region="region0"><span style="style1">pero, si en un momento dado</span><br/><span style="style1">no te ves capaz de seguir o…</span></p>
+<p xml:id="subtitle210" begin="10357600000t" end="10378000000t" region="region0"><span style="style1">quieres que te sustituya alguien…</span></p>
+<p xml:id="subtitle211" begin="10378800001t" end="10387200000t" region="region0"><span style="style1">No.</span></p>
+<p xml:id="subtitle212" begin="10388000000t" end="10398400000t" region="region0"><span style="style1">Ni de coña.</span></p>
+<p xml:id="subtitle213" begin="10405600000t" end="10422000000t" region="region0"><span style="style1">Voy a seguir hasta el final.</span></p>
+<p xml:id="subtitle214" begin="10422800000t" end="10448000000t" region="region0"><span style="style1">Entiéndeme, te tenía que preguntar.</span></p>
+<p xml:id="subtitle215" begin="10489200000t" end="10501200000t" region="region0"><span style="style1">[pasos alejándose]</span></p>
+<p xml:id="subtitle216" begin="10587600000t" end="10603600000t" region="region0"><span style="style1">[música inquietante suave]</span></p>
+<p xml:id="subtitle217" begin="10734400000t" end="10744400000t" region="region0"><span style="style1">[clica]</span></p>
+<p xml:id="subtitle218" begin="10763600000t" end="10773200000t" region="region0"><span style="style1">[clica]</span></p>
+<p xml:id="subtitle219" begin="10800800000t" end="10819600000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle220" begin="11052400000t" end="11072400000t" region="region0"><span style="style1">[música se vuelve opresiva y cesa]</span></p>
+<p xml:id="subtitle221" begin="11183200000t" end="11193200000t" region="region0"><span style="style1">¿Te encuentras bien?</span></p>
+<p xml:id="subtitle222" begin="11264400000t" end="11277200000t" region="region0"><span style="style1">¿Estamos juntos en esto?</span></p>
+<p xml:id="subtitle223" begin="11338400000t" end="11347200000t" region="region0"><span style="style1">Cuando queráis.</span></p>
+<p xml:id="subtitle224" begin="11384800000t" end="11405600000t" region="region0"><span style="style1">[Ana] </span><span style="style2">Primero gracias a todos por venir.</span></p>
+<p xml:id="subtitle225" begin="11426800000t" end="11435600000t" region="region0"><span style="style2">Como sabréis,</span></p>
+<p xml:id="subtitle226" begin="11454400000t" end="11476000000t" region="region0"><span style="style2">hoy ha aparecido otra cinta de Amaya.</span></p>
+<p xml:id="subtitle227" begin="11483200000t" end="11498400000t" region="region0"><span style="style1">[disparos de cámaras]</span></p>
+<p xml:id="subtitle228" begin="11503200000t" end="11534400000t" region="region0"><span style="style1">Todos tenéis una copia</span><br/><span style="style1">de esas imágenes. [solloza]</span></p>
+<p xml:id="subtitle229" begin="11599200000t" end="11617200000t" region="region0"><span style="style1">La persona que secuestró a Amaya</span></p>
+<p xml:id="subtitle230" begin="11618000000t" end="11642000000t" region="region0"><span style="style1">nos ha hecho saber</span><br/><span style="style1">que esta será la última cinta.</span></p>
+<p xml:id="subtitle231" begin="11691600000t" end="11702800000t" region="region0"><span style="style1">Se ha despedido.</span></p>
+<p xml:id="subtitle232" begin="11754000000t" end="11774400000t" region="region0"><span style="style1">No sabemos dónde está Amaya, no…</span></p>
+<p xml:id="subtitle233" begin="11796000000t" end="11830400000t" region="region0"><span style="style1">No sabemos qué va a ser de ella</span><br/><span style="style1">y nos tememos lo peor.</span></p>
+<p xml:id="subtitle234" begin="11880400000t" end="11912400000t" region="region0"><span style="style1">Por eso le pido a la persona</span><br/><span style="style1">que la secuestró que recapacite.</span></p>
+<p xml:id="subtitle235" begin="11962400000t" end="11980400000t" region="region0"><span style="style2">Quédate a mi hija, si quieres,</span></p>
+<p xml:id="subtitle236" begin="12003600000t" end="12024000000t" region="region0"><span style="style2">pero no le hagas daño, por favor.</span></p>
+<p xml:id="subtitle237" begin="12064400000t" end="12094400000t" region="region0"><span style="style1">Nos gustaría anunciar</span><br/><span style="style1">que ofrecemos 100 000 euros</span></p>
+<p xml:id="subtitle238" begin="12095200000t" end="12127600000t" region="region0"><span style="style1">a quien aporte cualquier pista</span><br/><span style="style1">que nos lleve hasta Amaya.</span></p>
+<p xml:id="subtitle239" begin="12128400000t" end="12140800000t" region="region0"><span style="style1">Vámonos. Muchas gracias.</span></p>
+<p xml:id="subtitle240" begin="12148400000t" end="12180400000t" region="region0"><span style="style1">[mujer 1] ¿Por qué ofrecen una recompensa</span><br/><span style="style1">tras tanto tiempo?</span></p>
+<p xml:id="subtitle241" begin="12181200000t" end="12204000000t" region="region0"><span style="style1">Ana, por favor, una pregunta.</span></p>
+<p xml:id="subtitle242" begin="12204800000t" end="12224000000t" region="region0"><span style="style1">[mujer 2] ¿</span><span style="style2">De dónde procede el dinero?</span></p>
+<p xml:id="subtitle243" begin="12224800000t" end="12239200000t" region="region0"><span style="style1">[mujer 1] </span><span style="style2">Ana…</span></p>
+<p xml:id="subtitle244" begin="12240000000t" end="12268800001t" region="region0"><span style="style1">No hace falta que os diga</span><br/><span style="style1">que esto no nos viene nada bien.</span></p>
+<p xml:id="subtitle245" begin="12278400000t" end="12304400000t" region="region0"><span style="style1">Han hablado de Amaya</span><br/><span style="style1">en el Congreso de los Diputados.</span></p>
+<p xml:id="subtitle246" begin="12309200000t" end="12336400001t" region="region0"><span style="style1">La oposición pide mano dura</span><br/><span style="style1">con los infanticidios.</span></p>
+<p xml:id="subtitle247" begin="12337200000t" end="12362800000t" region="region0"><span style="style1">Si la niña aparece muerta,</span><br/><span style="style1">nos joden bien jodidos.</span></p>
+<p xml:id="subtitle248" begin="12372400000t" end="12391200000t" region="region0"><span style="style1">A mí, pero también a vosotros.</span></p>
+<p xml:id="subtitle249" begin="12404800000t" end="12427600000t" region="region0"><span style="style1">¿Creéis que es una amenaza?</span><br/><span style="style1">¿La va a matar?</span></p>
+<p xml:id="subtitle250" begin="12428400000t" end="12454800000t" region="region0"><span style="style1">[Chaparro] Quien la secuestró</span><br/><span style="style1">no quiere pasta.</span></p>
+<p xml:id="subtitle251" begin="12455600000t" end="12468800001t" region="region0"><span style="style1">Solo quiere hacerles daño.</span></p>
+<p xml:id="subtitle252" begin="12473600000t" end="12512800000t" region="region0"><span style="style1">- Eso ya lo sabemos. Es algo personal.</span><br/><span style="style1">- Llevo investigando el entorno 9 años.</span></p>
+<p xml:id="subtitle253" begin="12513600000t" end="12542000000t" region="region0"><span style="style1">He entrevistado a los padres</span><br/><span style="style1">un millón de veces, y nada.</span></p>
+<p xml:id="subtitle254" begin="12552000000t" end="12566000000t" region="region0"><span style="style1">Nadie quiere hacerles daño.</span></p>
+<p xml:id="subtitle255" begin="12577600000t" end="12594400000t" region="region0"><span style="style1">¿Qué sabemos de la última cinta?</span></p>
+<p xml:id="subtitle256" begin="12624000000t" end="12646400001t" region="region0"><span style="style1">La dejaron en el museo Pompidou.</span></p>
+<p xml:id="subtitle257" begin="12647200000t" end="12679600000t" region="region0"><span style="style1">Las cámaras de seguridad, nada,</span><br/><span style="style1">y en el laboratorio, tampoco.</span></p>
+<p xml:id="subtitle258" begin="12680400000t" end="12702000000t" region="region0"><span style="style1">No hay muestras</span><br/><span style="style1">ni en el sobre ni en la cinta.</span></p>
+<p xml:id="subtitle259" begin="12702800000t" end="12742000000t" region="region0"><span style="style1">- ¿Y el </span><span style="style2">mail</span><span style="style1"> que le llegó a la periodista?</span><br/><span style="style1">- Lo enviaron del wifi de una cafetería.</span></p>
+<p xml:id="subtitle260" begin="12742800000t" end="12769600000t" region="region0"><span style="style1">Está para clientes,</span><br/><span style="style1">pero también se coge desde fuera.</span></p>
+<p xml:id="subtitle261" begin="12770400000t" end="12797600000t" region="region0"><span style="style1">La cuenta de correo</span><br/><span style="style1">solo estuvo operativa 20 minutos.</span></p>
+<p xml:id="subtitle262" begin="12798400000t" end="12818000000t" region="region0"><span style="style1">[comisario] O sea, que no tenemos nada.</span></p>
+<p xml:id="subtitle263" begin="12830400000t" end="12840000000t" region="region0"><span style="style1">Millán.</span></p>
+<p xml:id="subtitle264" begin="12840800000t" end="12857600000t" region="region0"><span style="style1">[música suave de suspense]</span></p>
+<p xml:id="subtitle265" begin="12858400000t" end="12872000000t" region="region0"><span style="style1">- Belén.</span><br/><span style="style1">- ¿Qué?</span></p>
+<p xml:id="subtitle266" begin="12872800000t" end="12891600000t" region="region0"><span style="style1">- ¿Estás aquí, con nosotros?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle267" begin="12904000000t" end="12917600000t" region="region0"><span style="style1">¿Me disculpáis un segundo?</span></p>
+<p xml:id="subtitle268" begin="13076400001t" end="13095600000t" region="region0"><span style="style1">[rueda de ratón]</span></p>
+<p xml:id="subtitle269" begin="13112000000t" end="13126000000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle270" begin="13158800001t" end="13167200000t" region="region0"><span style="style1">[clica]</span></p>
+<p xml:id="subtitle271" begin="13176000000t" end="13184400000t" region="region0"><span style="style1">[clica]</span></p>
+<p xml:id="subtitle272" begin="13346400001t" end="13378000000t" region="region0"><span style="style1">- ¿Qué te pasa? ¿Por qué te has ido así?</span><br/><span style="style1">- Ven, corre.</span></p>
+<p xml:id="subtitle273" begin="13393600000t" end="13402000000t" region="region0"><span style="style1">Mira.</span></p>
+<p xml:id="subtitle274" begin="13411200000t" end="13434800000t" region="region0"><span style="style1">¿Ves? Juguetes nuevos.</span></p>
+<p xml:id="subtitle275" begin="13443600000t" end="13477200000t" region="region0"><span style="style1">- ¿Y si los han comprado hace poco?</span><br/><span style="style1">- Pueden ser juguetes antiguos.</span></p>
+<p xml:id="subtitle276" begin="13478000000t" end="13509600000t" region="region0"><span style="style1">O haber salido de un desván.</span><br/><span style="style1">No sabemos si los compraron.</span></p>
+<p xml:id="subtitle277" begin="13510400000t" end="13528800001t" region="region0"><span style="style1">- [clica]</span><br/><span style="style1">- Es lo único que tenemos.</span></p>
+<p xml:id="subtitle278" begin="13538000000t" end="13576400001t" region="region0"><span style="style1">Ya, pero ya lo investigamos.</span><br/><span style="style1">Recorrimos las tiendas de Málaga, y nada.</span></p>
+<p xml:id="subtitle279" begin="13577200000t" end="13599200000t" region="region0"><span style="style1">La casa de muñecas es una vía muerta.</span></p>
+<p xml:id="subtitle280" begin="13622400000t" end="13637200000t" region="region0"><span style="style1">Pues quédate aquí si quieres.</span></p>
+<p xml:id="subtitle281" begin="13666400001t" end="13677200000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle282" begin="13678000000t" end="13724000000t" region="region0"><span style="style1">[Eduardo] </span><span style="style2">El mejor atributo</span><br/><span style="style2">de un periodista de investigación es…</span></p>
+<p xml:id="subtitle283" begin="13735200000t" end="13752000000t" region="region0"><span style="style2">la tenacidad.</span></p>
+<p xml:id="subtitle284" begin="13752800000t" end="13782800000t" region="region0"><span style="style2">Con eso se nace o no se nace.</span><br/><span style="style2">No se puede entrenar.</span></p>
+<p xml:id="subtitle285" begin="13789200000t" end="13818000000t" region="region0"><span style="style2">La curiosidad es lo que nos define.</span></p>
+<p xml:id="subtitle286" begin="13824800000t" end="13869200000t" region="region0"><span style="style1">Las ganas de poner las cosas en su sitio</span><br/><span style="style1">por muy difíciles que parezcan.</span></p>
+<p xml:id="subtitle287" begin="13870000000t" end="13912000000t" region="region0"><span style="style1">Esto es lo único</span><br/><span style="style1">que merece la pena aprender de todo esto.</span></p>
+<p xml:id="subtitle288" begin="13912800000t" end="13951600000t" region="region0"><span style="style1">Que este trabajo</span><br/><span style="style1">es más pasión que talento,</span></p>
+<p xml:id="subtitle289" begin="13957600000t" end="13992800000t" region="region0"><span style="style1">más perseverancia y esfuerzo</span><br/><span style="style1">que brillantez.</span></p>
+<p xml:id="subtitle290" begin="14025600000t" end="14038400000t" region="region0"><span style="style1">Por supuesto, todo ayuda.</span></p>
+<p xml:id="subtitle291" begin="14050400000t" end="14079600000t" region="region0"><span style="style1">Pero si te entusiasma un tema</span><br/><span style="style1">lo suficiente,</span></p>
+<p xml:id="subtitle292" begin="14084800000t" end="14120800000t" region="region0"><span style="style1">es imposible dejarlo</span><br/><span style="style1">hasta que no conoces la verdad.</span></p>
+<p xml:id="subtitle293" begin="14160800000t" end="14179600000t" region="region0"><span style="style1">Bueno, pues eso ha sido todo por hoy.</span></p>
+<p xml:id="subtitle294" begin="14180400000t" end="14202000000t" region="region0"><span style="style1">La semana que viene tenéis exámenes.</span></p>
+<p xml:id="subtitle295" begin="14280800000t" end="14306000000t" region="region0"><span style="style1">Ese discurso ya lo dabas hace diez años.</span></p>
+<p xml:id="subtitle296" begin="14306800000t" end="14338400000t" region="region0"><span style="style1">Lo doy siempre a principio de curso</span><br/><span style="style1">para motivar a la gente.</span></p>
+<p xml:id="subtitle297" begin="14339200000t" end="14350800000t" region="region0"><span style="style1">Luego se olvidan.</span></p>
+<p xml:id="subtitle298" begin="14386800000t" end="14418400000t" region="region0"><span style="style1">Y entonces,</span><br/><span style="style1">¿en la nota solo ponía &quot;adiós&quot;?</span></p>
+<p xml:id="subtitle299" begin="14419200000t" end="14429600000t" region="region0"><span style="style1">[Miren asiente]</span></p>
+<p xml:id="subtitle300" begin="14435600000t" end="14453200000t" region="region0"><span style="style1">¿Has encontrado algún especialista?</span></p>
+<p xml:id="subtitle301" begin="14454000000t" end="14465600000t" region="region0"><span style="style1">¿Tú qué crees?</span></p>
+<p xml:id="subtitle302" begin="14466400001t" end="14480400000t" region="region0"><span style="style1">[música inquietante suave]</span></p>
+<p xml:id="subtitle303" begin="14481200000t" end="14489600000t" region="region0"><span style="style1">Vamos.</span></p>
+<p xml:id="subtitle304" begin="14498000000t" end="14531600000t" region="region0"><span style="style1">Rocío es jefe de tecnología</span><br/><span style="style1">y un coco para estas cosas.</span></p>
+<p xml:id="subtitle305" begin="14532400000t" end="14542800000t" region="region0"><span style="style1">Es de confianza.</span></p>
+<p xml:id="subtitle306" begin="14549600000t" end="14572400000t" region="region0"><span style="style1">Bueno, dime</span><br/><span style="style1">qué quieres saber exactamente.</span></p>
+<p xml:id="subtitle307" begin="14579600000t" end="14609200000t" region="region0"><span style="style1">A ver, los vídeos parecen iguales.</span></p>
+<p xml:id="subtitle308" begin="14618000000t" end="14644800000t" region="region0"><span style="style1">El encuadre es el mismo,</span><br/><span style="style1">la habitación es la misma.</span></p>
+<p xml:id="subtitle309" begin="14645600000t" end="14660400000t" region="region0"><span style="style1">La luz es muy parecida.</span></p>
+<p xml:id="subtitle310" begin="14661200000t" end="14675600000t" region="region0"><span style="style1">Pero hay algo distinto.</span></p>
+<p xml:id="subtitle311" begin="14681600000t" end="14716400001t" region="region0"><span style="style1">- ¿Ves estas interferencias?</span><br/><span style="style1">- Eran supertípicas del VHS.</span></p>
+<p xml:id="subtitle312" begin="14717200000t" end="14744000000t" region="region0"><span style="style1">Ya. Están en la cinta de 2016.</span></p>
+<p xml:id="subtitle313" begin="14744800000t" end="14786400001t" region="region0"><span style="style1">Pero, en cambio, en el vídeo de 2019</span><br/><span style="style1">la imagen es mucho más limpia.</span></p>
+<p xml:id="subtitle314" begin="14820400000t" end="14836000000t" region="region0"><span style="style1">Le han cambiado los cabezales.</span></p>
+<p xml:id="subtitle315" begin="14845200000t" end="14868800001t" region="region0"><span style="style1">Estas marcas que tú dices</span><br/><span style="style1">son marcas magnéticas,</span></p>
+<p xml:id="subtitle316" begin="14869600000t" end="14909600000t" region="region0"><span style="style1">eso lo deja el cabezal al grabar,</span><br/><span style="style1">pero en este último vídeo</span></p>
+<p xml:id="subtitle317" begin="14910400000t" end="14942800000t" region="region0"><span style="style1">lo han grabado con otro cabezal,</span><br/><span style="style1">por eso no hay marcas.</span></p>
+<p xml:id="subtitle318" begin="14969600000t" end="14998400000t" region="region0"><span style="style1">Se estropearía el antiguo,</span><br/><span style="style1">por eso lo habrán cambiado.</span></p>
+<p xml:id="subtitle319" begin="15018400000t" end="15038800001t" region="region0"><span style="style1">¿Estas piezas son fáciles de encontrar?</span></p>
+<p xml:id="subtitle320" begin="15048800001t" end="15059200000t" region="region0"><span style="style1">En los 90, sí.</span></p>
+<p xml:id="subtitle321" begin="15070800000t" end="15079200000t" region="region0"><span style="style1">Hoy no.</span></p>
+<p xml:id="subtitle322" begin="15120000000t" end="15136000000t" region="region0"><span style="style1">[sollozos]</span></p>
+<p xml:id="subtitle323" begin="15201600000t" end="15212800000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle324" begin="15217600000t" end="15227600000t" region="region0"><span style="style1">[sollozos]</span></p>
+<p xml:id="subtitle325" begin="15290800000t" end="15300800000t" region="region0"><span style="style1">¿Sigues aquí?</span></p>
+<p xml:id="subtitle326" begin="15323600000t" end="15335200000t" region="region0"><span style="style1">Ya se han ido todos.</span></p>
+<p xml:id="subtitle327" begin="15379200000t" end="15414000000t" region="region0"><span style="style1">No quería dejarte sola,</span><br/><span style="style1">pero si quieres me puedo ir a casa ya.</span></p>
+<p xml:id="subtitle328" begin="15442000000t" end="15458800001t" region="region0"><span style="style1">¿Y si no la volvemos a ver?</span></p>
+<p xml:id="subtitle329" begin="15491200000t" end="15518800001t" region="region0"><span style="style1">¿Y si nunca sabemos</span><br/><span style="style1">si está viva o muerta?</span></p>
+<p xml:id="subtitle330" begin="15528400000t" end="15541200000t" region="region0"><span style="style1">[Álvaro chista suave]</span></p>
+<p xml:id="subtitle331" begin="15549200000t" end="15562400000t" region="region0"><span style="style1">No pienses en eso ahora.</span></p>
+<p xml:id="subtitle332" begin="15582000000t" end="15594000000t" region="region0"><span style="style1">[Ana solloza]</span></p>
+<p xml:id="subtitle333" begin="15622800000t" end="15656000000t" region="region0"><span style="style1">Si Amaya está muerta,</span><br/><span style="style1">yo necesito saberlo.</span></p>
+<p xml:id="subtitle334" begin="15656800000t" end="15689600000t" region="region0"><span style="style1">- Quiero enterrarla, tenerla conmigo.</span><br/><span style="style1">- Yo también.</span></p>
+<p xml:id="subtitle335" begin="15694800000t" end="15723200000t" region="region0"><span style="style1">Yo también,</span><br/><span style="style1">pero no pensemos en eso, ¿vale?</span></p>
+<p xml:id="subtitle336" begin="15724000000t" end="15735200000t" region="region0"><span style="style1">Álvaro,</span></p>
+<p xml:id="subtitle337" begin="15744400000t" end="15775200000t" region="region0"><span style="style1">si mata a nuestra hija,</span><br/><span style="style1">no voy a parar hasta encontrarlo.</span></p>
+<p xml:id="subtitle338" begin="15784400000t" end="15802000000t" region="region0"><span style="style1">Y, cuando encuentre a ese cabrón,</span></p>
+<p xml:id="subtitle339" begin="15808000000t" end="15816800000t" region="region0"><span style="style1">lo mataré.</span></p>
+<p xml:id="subtitle340" begin="15817600000t" end="15831200000t" region="region0"><span style="style1">[música inquietante suave]</span></p>
+<p xml:id="subtitle341" begin="15840400000t" end="15851200000t" region="region0"><span style="style1">[Ana solloza]</span></p>
+<p xml:id="subtitle342" begin="15852000000t" end="15864400000t" region="region0"><span style="style1">[Álvaro chista suave]</span></p>
+<p xml:id="subtitle343" begin="15865200000t" end="15875200000t" region="region0"><span style="style1">[latidos]</span></p>
+<p xml:id="subtitle344" begin="15880400000t" end="15891600000t" region="region0"><span style="style1">[Ana solloza]</span></p>
+<p xml:id="subtitle345" begin="15892400000t" end="15906400001t" region="region0"><span style="style1">[Álvaro chista suave]</span></p>
+<p xml:id="subtitle346" begin="15928400000t" end="15948000000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle347" begin="15948800001t" end="15980800000t" region="region0"><span style="style1">- ¿Reconoce estos juguetes?</span><br/><span style="style1">- No, lo siento mucho.</span></p>
+<p xml:id="subtitle348" begin="15997600000t" end="16006400001t" region="region0"><span style="style1">Muchas gracias.</span></p>
+<p xml:id="subtitle349" begin="16052400000t" end="16084400000t" region="region0"><span style="style1">¿Puede decirnos</span><br/><span style="style1">si ha visto estos juguetes alguna vez?</span></p>
+<p xml:id="subtitle350" begin="16101600000t" end="16111200000t" region="region0"><span style="style1">¿Seguro?</span></p>
+<p xml:id="subtitle351" begin="16185600000t" end="16217600000t" region="region0"><span style="style1">- [Belén] Hola.</span><br/><span style="style1">- Buenas tardes. ¿En qué puedo ayudarles?</span></p>
+<p xml:id="subtitle352" begin="16218400000t" end="16243200000t" region="region0"><span style="style1">Veníamos a preguntarle</span><br/><span style="style1">sobre una casa de muñecas.</span></p>
+<p xml:id="subtitle353" begin="16244000000t" end="16276800000t" region="region0"><span style="style1">Vinimos hace tres años,</span><br/><span style="style1">pero estamos actualizando la información.</span></p>
+<p xml:id="subtitle354" begin="16277600000t" end="16310800000t" region="region0"><span style="style1">Yo no estaba hace tres años.</span><br/><span style="style1">Me hice cargo de la tienda el mes pasado.</span></p>
+<p xml:id="subtitle355" begin="16311600000t" end="16350400000t" region="region0"><span style="style1">- ¿Podemos hablar con el anterior dueño?</span><br/><span style="style1">- Es un negocio familiar. Hablen conmigo.</span></p>
+<p xml:id="subtitle356" begin="16351200000t" end="16363200000t" region="region0"><span style="style1">[música se atenúa]</span></p>
+<p xml:id="subtitle357" begin="16372800000t" end="16391600000t" region="region0"><span style="style1">Solo queremos que mire estas fotos.</span></p>
+<p xml:id="subtitle358" begin="16446000000t" end="16465600000t" region="region0"><span style="style1">Esta chica es la niña desaparecida.</span></p>
+<p xml:id="subtitle359" begin="16490800000t" end="16506800000t" region="region0"><span style="style1">¿Reconoce esta casa de muñecas?</span></p>
+<p xml:id="subtitle360" begin="16538800001t" end="16579200000t" region="region0"><span style="style1">No sé si la casa la vendimos nosotros,</span><br/><span style="style1">pero los muebles pueden ser de mi padre.</span></p>
+<p xml:id="subtitle361" begin="16606400001t" end="16634800000t" region="region0"><span style="style1">- ¿A qué se refiere?</span><br/><span style="style1">- El reloj de pared y el diván.</span></p>
+<p xml:id="subtitle362" begin="16635600000t" end="16665200000t" region="region0"><span style="style1">Mi padre construye miniaturas así</span><br/><span style="style1">y las pinta él.</span></p>
+<p xml:id="subtitle363" begin="16666000000t" end="16676000000t" region="region0"><span style="style1">[música cesa]</span></p>
+<p xml:id="subtitle364" begin="16682000000t" end="16699600000t" region="region0"><span style="style1">Bueno, que no estoy muy segura.</span></p>
+<p xml:id="subtitle365" begin="16700400000t" end="16714400000t" region="region0"><span style="style1">¿Podríamos hablar con él?</span></p>
+<p xml:id="subtitle366" begin="16720400000t" end="16760400000t" region="region0"><span style="style1">Eh… Está en la trastienda,</span><br/><span style="style1">pero será mejor que los acompañe.</span></p>
+<p xml:id="subtitle367" begin="16782400000t" end="16797600000t" region="region0"><span style="style1">- Por aquí.</span><br/><span style="style1">- Gracias.</span></p>
+<p xml:id="subtitle368" begin="16808800001t" end="16822800000t" region="region0"><span style="style1">[música suave de suspense]</span></p>
+<p xml:id="subtitle369" begin="16833600000t" end="16856000000t" region="region0"><span style="style1">- Papá.</span><br/><span style="style1">- Este laberinto está roto.</span></p>
+<p xml:id="subtitle370" begin="16862400000t" end="16885600000t" region="region0"><span style="style1">- Está roto.</span><br/><span style="style1">- Este juguete está bien.</span></p>
+<p xml:id="subtitle371" begin="16886400001t" end="16910400000t" region="region0"><span style="style1">No, está roto, no tiene salida.</span></p>
+<p xml:id="subtitle372" begin="16911200000t" end="16938800001t" region="region0"><span style="style1">Estos señores son de la policía.</span><br/><span style="style1">Quieren hablar contigo.</span></p>
+<p xml:id="subtitle373" begin="16939600000t" end="16955200000t" region="region0"><span style="style1">- Hola.</span><br/><span style="style1">- Hola, muy buenas.</span></p>
+<p xml:id="subtitle374" begin="16956000000t" end="16985200000t" region="region0"><span style="style1">Estamos investigando</span><br/><span style="style1">la desaparición de una niña.</span></p>
+<p xml:id="subtitle375" begin="16991600000t" end="17015200000t" region="region0"><span style="style1">- Es ella. Se llama Amaya.</span><br/><span style="style1">- [señor asiente]</span></p>
+<p xml:id="subtitle376" begin="17029200000t" end="17061600000t" region="region0"><span style="style1">[Belén] Su hija dice que igual</span><br/><span style="style1">una de estas figuras las hizo usted.</span></p>
+<p xml:id="subtitle377" begin="17142800000t" end="17154800000t" region="region0"><span style="style1">¿Son suyas?</span></p>
+<p xml:id="subtitle378" begin="17195600000t" end="17230000000t" region="region0"><span style="style1">Venga, haz un esfuerzo.</span><br/><span style="style1">Haz memoria, que es importante.</span></p>
+<p xml:id="subtitle379" begin="17294000000t" end="17310000000t" region="region0"><span style="style1">Lo siento, no…</span></p>
+<p xml:id="subtitle380" begin="17315200000t" end="17334400000t" region="region0"><span style="style1">No puedo, no sé. No sé.</span></p>
+<p xml:id="subtitle381" begin="17335200000t" end="17343600000t" region="region0"><span style="style1">No te preocupes.</span></p>
+<p xml:id="subtitle382" begin="17362800000t" end="17374800000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle383" begin="17416400000t" end="17432800000t" region="region0"><span style="style1">Tiene momentos mejores y peores.</span></p>
+<p xml:id="subtitle384" begin="17433600000t" end="17454400000t" region="region0"><span style="style1">Cualquier cosa que se acuerde, llámenos.</span></p>
+<p xml:id="subtitle385" begin="17455200000t" end="17472800000t" region="region0"><span style="style1">- Es importante.</span><br/><span style="style1">- Sí, por supuesto.</span></p>
+<p xml:id="subtitle386" begin="17473600000t" end="17485200000t" region="region0"><span style="style1">Gracias.</span></p>
+<p xml:id="subtitle387" begin="17486000000t" end="17508000000t" region="region0"><span style="style1">- Muchísimas gracias.</span><br/><span style="style1">- De nada, hasta luego.</span></p>
+<p xml:id="subtitle388" begin="17518800000t" end="17538800000t" region="region0"><span style="style1">[tonos de llamadas]</span></p>
+<p xml:id="subtitle389" begin="17544400000t" end="17560800000t" region="region0"><span style="style1">- Cógelo tú.</span><br/><span style="style1">- ¿Sí?</span></p>
+<p xml:id="subtitle390" begin="17569200000t" end="17578400000t" region="region0"><span style="style1">Está conmigo.</span></p>
+<p xml:id="subtitle391" begin="17585200000t" end="17594400000t" region="region0"><span style="style1">Vamos para allá.</span></p>
+<p xml:id="subtitle392" begin="17611600000t" end="17624400000t" region="region0"><span style="style1">- Dale.</span><br/><span style="style1">- ¿Qué pasa?</span></p>
+<p xml:id="subtitle393" begin="17635200000t" end="17643600000t" region="region0"><span style="style1">Foster.</span></p>
+<p xml:id="subtitle394" begin="17651600000t" end="17663600000t" region="region0"><span style="style1">[música de suspense]</span></p>
+<p xml:id="subtitle395" begin="17675600000t" end="17689200000t" region="region0"><span style="style1">[Chaparro] ¿Qué pasa, Rafa?</span></p>
+<p xml:id="subtitle396" begin="17694000000t" end="17714000000t" region="region0"><span style="style1">- Aquí estamos, tirando.</span><br/><span style="style1">- Eso está bien.</span></p>
+<p xml:id="subtitle397" begin="17714800000t" end="17736000000t" region="region0"><span style="style1">¿Seguro que uno</span><br/><span style="style1">de los cadáveres es Foster?</span></p>
+<p xml:id="subtitle398" begin="17736800000t" end="17762400000t" region="region0"><span style="style1">- Sí, el dueño de la caravana.</span><br/><span style="style1">- ¿Y el otro?</span></p>
+<p xml:id="subtitle399" begin="17763200000t" end="17778400000t" region="region0"><span style="style1">Un hombre aún sin identificar.</span></p>
+<p xml:id="subtitle400" begin="17786400000t" end="17800400000t" region="region0"><span style="style1">¿Cómo los han matado?</span></p>
+<p xml:id="subtitle401" begin="17801200000t" end="17834000000t" region="region0"><span style="style1">Un disparo en la frente, limpio.</span><br/><span style="style1">El que los mató sabía lo que hacía.</span></p>
+<p xml:id="subtitle402" begin="17834800000t" end="17857600000t" region="region0"><span style="style1">Hicieron una barbacoa con ellos</span><br/><span style="style1">para borrar pruebas.</span></p>
+<p xml:id="subtitle403" begin="17858400000t" end="17874000000t" region="region0"><span style="style1">El día que aparece la cinta.</span></p>
+<p xml:id="subtitle404" begin="17874800000t" end="17891200000t" region="region0"><span style="style1">- [mujer] Inspector.</span><br/><span style="style1">- ¿Qué pasa?</span></p>
+<p xml:id="subtitle405" begin="17892000000t" end="17918800000t" region="region0"><span style="style1">[mujer] Hemos encontrado algo.</span><br/><span style="style1">Parece una caja fuerte.</span></p>
+<p xml:id="subtitle406" begin="18050400000t" end="18062400000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle407" begin="18176400000t" end="18185200000t" region="region0"><span style="style1">[Miren] Hola.</span></p>
+<p xml:id="subtitle408" begin="18186000000t" end="18200000000t" region="region0"><span style="style1">- [tono puerta]</span><br/><span style="style1">- Buenas.</span></p>
+<p xml:id="subtitle409" begin="18208400000t" end="18228000000t" region="region0"><span style="style1">Me gustaría arreglar un VHS.</span></p>
+<p xml:id="subtitle410" begin="18234000000t" end="18270800000t" region="region0"><span style="style1">He estado buscando en Internet</span><br/><span style="style1">a ver dónde se arreglan estos trastos.</span></p>
+<p xml:id="subtitle411" begin="18271600000t" end="18286800000t" region="region0"><span style="style1">Llevo todo el día preguntando.</span></p>
+<p xml:id="subtitle412" begin="18287600000t" end="18304800000t" region="region0"><span style="style1">Mira, vas a tener suerte.</span></p>
+<p xml:id="subtitle413" begin="18305600000t" end="18338800000t" region="region0"><span style="style1">Soy como el Bill Gates de aquí, de Málaga,</span><br/><span style="style1">pero a lo pobre.</span></p>
+<p xml:id="subtitle414" begin="18367600000t" end="18385200000t" region="region0"><span style="style1">Es un regalo para mis padres.</span></p>
+<p xml:id="subtitle415" begin="18406000000t" end="18434800000t" region="region0"><span style="style1">Bien, dime tus datos</span><br/><span style="style1">y la marca y el modelo del vídeo.</span></p>
+<p xml:id="subtitle416" begin="18435600000t" end="18467200000t" region="region0"><span style="style1">Las piezas suelen tardar una mijita,</span><br/><span style="style1">pero te aviso cuando lleguen.</span></p>
+<p xml:id="subtitle417" begin="18468000000t" end="18500000000t" region="region0"><span style="style1">Pues es un Sanyo VCR del 85.</span></p>
+<p xml:id="subtitle418" begin="18538800000t" end="18548800000t" region="region0"><span style="style1">¿Pasa algo?</span></p>
+<p xml:id="subtitle419" begin="18554000000t" end="18564400000t" region="region0"><span style="style1">Nada, nada.</span></p>
+<p xml:id="subtitle420" begin="18572000000t" end="18603600000t" region="region0"><span style="style1">Hace semanas me trajeron</span><br/><span style="style1">otro trasto de esos para arreglarlo.</span></p>
+<p xml:id="subtitle421" begin="18621200000t" end="18638800000t" region="region0"><span style="style1">- ¿Del mismo modelo?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle422" begin="18667200000t" end="18684000000t" region="region0"><span style="style1">¿Tenía los cabezales rotos?</span></p>
+<p xml:id="subtitle423" begin="18700400000t" end="18713600000t" region="region0"><span style="style1">¿Y tú cómo lo sabes?</span></p>
+<p xml:id="subtitle424" begin="18714400000t" end="18728400000t" region="region0"><span style="style1">[música suave de suspense]</span></p>
+<p xml:id="subtitle425" begin="18746800000t" end="18760400000t" region="region0"><span style="style1">Soy redactora del </span><span style="style2">Sur.</span></p>
+<p xml:id="subtitle426" begin="18761200000t" end="18780400000t" region="region0"><span style="style1">- Buf.</span><br/><span style="style1">- Estoy haciendo un reportaje.</span></p>
+<p xml:id="subtitle427" begin="18791200000t" end="18809200000t" region="region0"><span style="style1">¿Recuerda el nombre de ese cliente?</span></p>
+<p xml:id="subtitle428" begin="18814000000t" end="18837200000t" region="region0"><span style="style1">¿Si pagó en efectivo o con tarjeta?</span><br/><span style="style1">Lo que sea.</span></p>
+<p xml:id="subtitle429" begin="18838000000t" end="18870400000t" region="region0"><span style="style1">Yo no voy a contar nada, ¿eh?</span><br/><span style="style1">No quiero salir en la prensa ni…</span></p>
+<p xml:id="subtitle430" begin="18871200000t" end="18905200000t" region="region0"><span style="style1">- ¿Usted conoce el caso de Amaya Martín?</span><br/><span style="style1">- Sí, la niña de los vídeos.</span></p>
+<p xml:id="subtitle431" begin="18906000000t" end="18925200000t" region="region0"><span style="style1">Estoy investigando su desaparición.</span></p>
+<p xml:id="subtitle432" begin="18936800000t" end="18948400000t" region="region0"><span style="style1">[suspirando] Ay.</span></p>
+<p xml:id="subtitle433" begin="18949200000t" end="18964800000t" region="region0"><span style="style1">Yo ya tengo mis problemas, ¿eh?</span></p>
+<p xml:id="subtitle434" begin="18972000000t" end="18986800000t" region="region0"><span style="style1">Anda, tira.</span></p>
+<p xml:id="subtitle435" begin="18994000000t" end="19003600000t" region="region0"><span style="style1">Tira.</span></p>
+<p xml:id="subtitle436" begin="19050000000t" end="19060800000t" region="region0"><span style="style1">[tono puerta]</span></p>
+<p xml:id="subtitle437" begin="19078000000t" end="19090000000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle438" begin="19090800000t" end="19101600000t" region="region0"><span style="style1">Hola, buenas tardes.</span></p>
+<p xml:id="subtitle439" begin="19107600000t" end="19160400000t" region="region0"><span style="style1">Venía a por una minicadena que os dejé.</span><br/><span style="style1">Está arreglada. Me habéis avisado.</span></p>
+<p xml:id="subtitle440" begin="19161200000t" end="19186400000t" region="region0"><span style="style1">- Ah, sí, está bien. Espérate aquí.</span><br/><span style="style1">- Vale.</span></p>
+<p xml:id="subtitle441" begin="19209200000t" end="19221200000t" region="region0"><span style="style1">[tono puerta]</span></p>
+<p xml:id="subtitle442" begin="19272800000t" end="19290000000t" region="region0"><span style="style1">- [cliente] ¡Oiga!</span><br/><span style="style1">- [frenada]</span></p>
+<p xml:id="subtitle443" begin="19290800000t" end="19299600000t" region="region0"><span style="style1">¡Oiga!</span></p>
+<p xml:id="subtitle444" begin="19353200000t" end="19361600000t" region="region0"><span style="style1">¡Niñata!</span></p>
+<p xml:id="subtitle445" begin="19370800000t" end="19381200000t" region="region0"><span style="style1">¡Hija de puta!</span></p>
+<p xml:id="subtitle446" begin="19382000000t" end="19398400000t" region="region0"><span style="style1">- [motor en marcha]</span><br/><span style="style1">- [golpes]</span></p>
+<p xml:id="subtitle447" begin="19399200000t" end="19408800000t" region="region0"><span style="style1">¡Hija de puta!</span></p>
+<p xml:id="subtitle448" begin="19409600000t" end="19423600000t" region="region0"><span style="style1">[acelerón]</span></p>
+<p xml:id="subtitle449" begin="19438800000t" end="19454400000t" region="region0"><span style="style1">- ¡Para!</span><br/><span style="style1">- [chirrido]</span></p>
+<p xml:id="subtitle450" begin="19492000000t" end="19502800000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle451" begin="19503600000t" end="19518800000t" region="region0"><span style="style1">La gente como nosotras.</span></p>
+<p xml:id="subtitle452" begin="19533600000t" end="19563200000t" region="region1"><span style="style1">Todas esas mujeres</span><br/><span style="style1">a las que nos han herido</span></p>
+<p xml:id="subtitle453" begin="19564000000t" end="19583200000t" region="region1"><span style="style1">y maltratado y violado,</span></p>
+<p xml:id="subtitle454" begin="19607200000t" end="19644400000t" region="region1"><span style="style1">todas nosotras sabemos</span><br/><span style="style1">qué aspecto tiene un monstruo.</span></p>
+<p xml:id="subtitle455" begin="19688400000t" end="19716400000t" region="region0"><span style="style1">Detrás de cada sonrisa bonita,</span></p>
+<p xml:id="subtitle456" begin="19725600000t" end="19743600000t" region="region0"><span style="style1">de cada palabra inocente,</span></p>
+<p xml:id="subtitle457" begin="19749600000t" end="19770800000t" region="region0"><span style="style1">¿a que sabéis de lo que hablo? ¿A que sí?</span></p>
+<p xml:id="subtitle458" begin="19783200000t" end="19804000000t" region="region0"><span style="style1">¿A que reconocéis esa sonrisa?</span></p>
+<p xml:id="subtitle459" begin="19815200000t" end="19837200000t" region="region0"><span style="style1">De cada reputación intachable,</span></p>
+<p xml:id="subtitle460" begin="19852000000t" end="19860800000t" region="region0"><span style="style1">están ahí.</span></p>
+<p xml:id="subtitle461" begin="19882000000t" end="19907600000t" region="region0"><span style="style1">Nadie más puede verlos, nadie.</span></p>
+<p xml:id="subtitle462" begin="19915600000t" end="19935600000t" region="region0"><span style="style1">Pero nosotras sabemos que están ahí.</span></p>
+<p xml:id="subtitle463" begin="19954800000t" end="19965600000t" region="region0"><span style="style1">Nos asustan.</span></p>
+<p xml:id="subtitle464" begin="19984000000t" end="20003200000t" region="region0"><span style="style1">- [timbre]</span><br/><span style="style1">- [terapeuta] </span><span style="style2">Nos dan miedo.</span></p>
+<p xml:id="subtitle465" begin="20026400000t" end="20046400000t" region="region0"><span style="style2">Pero tenemos que dejar de huir.</span></p>
+<p xml:id="subtitle466" begin="20047200000t" end="20071600000t" region="region0"><span style="style2">Es que tenemos que dejar de huir.</span></p>
+<p xml:id="subtitle467" begin="20072400000t" end="20088000000t" region="region0"><span style="style1">[música inquietante suave]</span></p>
+<p xml:id="subtitle468" begin="20100400000t" end="20117200000t" region="region0"><span style="style2">Tenemos que mirarlos</span></p>
+<p xml:id="subtitle469" begin="20118000000t" end="20129600000t" region="region0"><span style="style2">a los ojos,</span></p>
+<p xml:id="subtitle470" begin="20135600000t" end="20163200000t" region="region0"><span style="style2">bien plantadas</span><span style="style1">,</span><span style="style2"> y decirles:</span></p>
+<p xml:id="subtitle471" begin="20181600000t" end="20205200000t" region="region0"><span style="style2">&quot;Voy a enfrentarme a ti&quot;.</span></p>
+<p xml:id="subtitle472" begin="20276800000t" end="20290400000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle473" begin="20527600000t" end="20539600000t" region="region0"><span style="style1">[música se atenúa]</span></p>
+<p xml:id="subtitle474" begin="20613200000t" end="20621600000t" region="region0"><span style="style1">¿Qué quieres?</span></p>
+<p xml:id="subtitle475" begin="20634400000t" end="20649200000t" region="region0"><span style="style1">Hacerte unas preguntas.</span></p>
+<p xml:id="subtitle476" begin="20687200000t" end="20705200000t" region="region0"><span style="style1">¿En cuántos artículos me has sacado?</span></p>
+<p xml:id="subtitle477" begin="20742000000t" end="20770800000t" region="region0"><span style="style1">¿Cuántas veces has puesto por escrito</span><br/><span style="style1">que soy un violador?</span></p>
+<p xml:id="subtitle478" begin="20800400000t" end="20812000000t" region="region0"><span style="style1">Eres un violador.</span></p>
+<p xml:id="subtitle479" begin="20866800000t" end="20892800001t" region="region0"><span style="style1">Hace años que no veo</span><br/><span style="style1">a la hija que me queda.</span></p>
+<p xml:id="subtitle480" begin="20922000000t" end="20942000000t" region="region0"><span style="style1">Ella y Rosa tuvieron que irse del país.</span></p>
+<p xml:id="subtitle481" begin="20959200000t" end="20974000000t" region="region0"><span style="style1">No podían vivir aquí.</span></p>
+<p xml:id="subtitle482" begin="20984400000t" end="20998800000t" region="region0"><span style="style1">No con periodistas como tú.</span></p>
+<p xml:id="subtitle483" begin="21028000000t" end="21040400000t" region="region0"><span style="style1">Háblame de Slide.</span></p>
+<p xml:id="subtitle484" begin="21056800000t" end="21075200000t" region="region0"><span style="style1">- No sé a qué te refieres.</span><br/><span style="style1">- Ah, ¿no?</span></p>
+<p xml:id="subtitle485" begin="21095200000t" end="21124000000t" region="region0"><span style="style1">Es la web donde colgabas</span><br/><span style="style1">los vídeos de las violaciones.</span></p>
+<p xml:id="subtitle486" begin="21146800000t" end="21169600000t" region="region0"><span style="style1">Cerró al poco</span><br/><span style="style1">de que te metieran en la cárcel.</span></p>
+<p xml:id="subtitle487" begin="21292800001t" end="21316400000t" region="region0"><span style="style1">Esta es una lista</span><br/><span style="style1">de los usuarios de la página.</span></p>
+<p xml:id="subtitle488" begin="21331600000t" end="21347200000t" region="region0"><span style="style1">Necesito saber quiénes son.</span></p>
+<p xml:id="subtitle489" begin="21375200000t" end="21386400000t" region="region0"><span style="style1">¿Sabes quiénes son?</span></p>
+<p xml:id="subtitle490" begin="21423200000t" end="21442400000t" region="region0"><span style="style1">Aunque lo supiera, no te lo diría.</span></p>
+<p xml:id="subtitle491" begin="21489200000t" end="21506400000t" region="region0"><span style="style1">Pero sí te puedo dar un consejo.</span></p>
+<p xml:id="subtitle492" begin="21520400000t" end="21529600000t" region="region0"><span style="style1">Déjalo.</span></p>
+<p xml:id="subtitle493" begin="21561600000t" end="21580400000t" region="region0"><span style="style1">No estás luchando contra personas.</span></p>
+<p xml:id="subtitle494" begin="21600400000t" end="21620400000t" region="region0"><span style="style1">Estás luchando contra la realidad.</span></p>
+<p xml:id="subtitle495" begin="21652800001t" end="21668800000t" region="region0"><span style="style1">Yo estoy aquí, encerrado.</span></p>
+<p xml:id="subtitle496" begin="21693200000t" end="21710000000t" region="region0"><span style="style1">¿Se han acabado las violaciones?</span></p>
+<p xml:id="subtitle497" begin="21728800000t" end="21745600000t" region="region0"><span style="style1">¿Hay menos porno con menores?</span></p>
+<p xml:id="subtitle498" begin="21775600000t" end="21796400000t" region="region0"><span style="style1">Da igual que nos encerréis a todos.</span></p>
+<p xml:id="subtitle499" begin="21811600000t" end="21834400000t" region="region0"><span style="style1">Siempre vendrá otro que hará lo mismo.</span></p>
+<p xml:id="subtitle500" begin="21852400000t" end="21864800000t" region="region0"><span style="style1">Ni siquiera hay jefes.</span></p>
+<p xml:id="subtitle501" begin="21880000000t" end="21892400000t" region="region0"><span style="style1">Es el sistema.</span></p>
+<p xml:id="subtitle502" begin="21912000000t" end="21936400000t" region="region0"><span style="style1">Es cómo están organizadas las cosas.</span></p>
+<p xml:id="subtitle503" begin="21950000000t" end="21960800000t" region="region0"><span style="style1">No hay malos.</span></p>
+<p xml:id="subtitle504" begin="21976400000t" end="21993200000t" region="region0"><span style="style1">El mundo es así.</span></p>
+<p xml:id="subtitle505" begin="22013200000t" end="22026400000t" region="region0"><span style="style1">Y te va a hacer pedazos.</span></p>
+<p xml:id="subtitle506" begin="22048800000t" end="22070000000t" region="region0"><span style="style1">Da igual lo que hagas, no importa.</span></p>
+<p xml:id="subtitle507" begin="22122400000t" end="22135200000t" region="region0"><span style="style1">Porque ya has perdido.</span></p>
+<p xml:id="subtitle508" begin="22159200000t" end="22173200000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle509" begin="22229600000t" end="22245600000t" region="region0"><span style="style1">[graznidos de gaviotas]</span></p>
+<p xml:id="subtitle510" begin="22320000000t" end="22332000000t" region="region0"><span style="style1">[cesa la música]</span></p>
+<p xml:id="subtitle511" begin="22342400000t" end="22350800000t" region="region0"><span style="style1">[Paco] Sí.</span></p>
+<p xml:id="subtitle512" begin="22356800000t" end="22374800000t" region="region0"><span style="style1">Ahora te llamo. Lo siento.</span></p>
+<p xml:id="subtitle513" begin="22380000000t" end="22396000000t" region="region0"><span style="style1">- ¿Cómo ha ido?</span><br/><span style="style1">- Tengo algo.</span></p>
+<p xml:id="subtitle514" begin="22396800000t" end="22405200000t" region="region0"><span style="style1">¿El qué?</span></p>
+<p xml:id="subtitle515" begin="22406000000t" end="22440800000t" region="region0"><span style="style1">Alguien reparó ese modelo exacto de VHS</span><br/><span style="style1">hace unos meses.</span></p>
+<p xml:id="subtitle516" begin="22441600000t" end="22464800000t" region="region0"><span style="style1">Tengo su dirección. Se llama Iris Molina.</span></p>
+<p xml:id="subtitle517" begin="22469600000t" end="22478000000t" region="region0"><span style="style1">¿Una mujer?</span></p>
+<p xml:id="subtitle518" begin="22478800000t" end="22488400000t" region="region0"><span style="style1">[Miren suspira]</span></p>
+<p xml:id="subtitle519" begin="22489200000t" end="22519200000t" region="region0"><span style="style1">Vive en medio de la sierra,</span><br/><span style="style1">cerca de un pueblo, Parauta.</span></p>
+<p xml:id="subtitle520" begin="22520000000t" end="22535600000t" region="region0"><span style="style1">- ¿Vas a ir a visitarla?</span><br/><span style="style1">- Sí.</span></p>
+<p xml:id="subtitle521" begin="22536400000t" end="22568000000t" region="region0"><span style="style1">Si alguien pregunta por este cuaderno, </span><br/><span style="style1">dile que me perdone.</span></p>
+<p xml:id="subtitle522" begin="22568800000t" end="22588000000t" region="region0"><span style="style1">¿Qué tiene que perdonarte, Miren?</span></p>
+<p xml:id="subtitle523" begin="22595200000t" end="22606000000t" region="region0"><span style="style1">[se abre puerta]</span></p>
+<p xml:id="subtitle524" begin="22632000000t" end="22641200000t" region="region0"><span style="style1">[se cierra puerta]</span></p>
+<p xml:id="subtitle525" begin="22670400000t" end="22692800001t" region="region0"><span style="style1">- [Belén suspira]</span><br/><span style="style1">- [Miren] ¿Qué hacéis aquí?</span></p>
+<p xml:id="subtitle526" begin="22704000000t" end="22721600000t" region="region0"><span style="style1">Tienes que acompañarme a comisaría.</span></p>
+<p xml:id="subtitle527" begin="22722400000t" end="22752800001t" region="region0"><span style="style1">- ¿Para qué?</span><br/><span style="style1">- Hemos encontrado dos cadáveres, Miren.</span></p>
+<p xml:id="subtitle528" begin="22759600000t" end="22776400000t" region="region0"><span style="style1">En una caravana en Coín.</span></p>
+<p xml:id="subtitle529" begin="22777200000t" end="22805200000t" region="region0"><span style="style1">Uno era James Foster</span><br/><span style="style1">y el otro era David Luque.</span></p>
+<p xml:id="subtitle530" begin="22816800000t" end="22825600000t" region="region0"><span style="style1">¿Y?</span></p>
+<p xml:id="subtitle531" begin="22826400000t" end="22836400000t" region="region0"><span style="style1">[Belén resopla]</span></p>
+<p xml:id="subtitle532" begin="22844400000t" end="22870800000t" region="region0"><span style="style1">Los dos eran sospechosos</span><br/><span style="style1">de la desaparición de Amaya.</span></p>
+<p xml:id="subtitle533" begin="22871600000t" end="22885600000t" region="region0"><span style="style1">[música de tensión]</span></p>
+<p xml:id="subtitle534" begin="22910000000t" end="22927600001t" region="region0"><span style="style1">También ha aparecido esto,</span></p>
+<p xml:id="subtitle535" begin="22928400000t" end="22949200000t" region="region1"><span style="style1">en una caja fuerte dentro de la caravana.</span></p>
+<p xml:id="subtitle536" begin="22997200000t" end="23007600001t" region="region0"><span style="style1">¿Qué está pasando?</span></p>
+<p xml:id="subtitle537" begin="23070000000t" end="23084000000t" region="region0"><span style="style1">[música se intensifica]</span></p>
+<p xml:id="subtitle538" begin="23337600001t" end="23346000000t" region="region0"><span style="style1">[mujer] ¡Julia!</span></p>
+<p xml:id="subtitle539" begin="23371600000t" end="23383600000t" region="region0"><span style="style1">[música se atenúa]</span></p>
+<p xml:id="subtitle540" begin="23384400000t" end="23417600001t" region="region0"><span style="style1">[suena a lo lejos &quot;Me gustaría enseñar</span><br/><span style="style1">al mundo a cantar&quot; de La Pandilla]</span></p>
+<p xml:id="subtitle541" begin="23418400000t" end="23440000000t" region="region0"><span style="style2">♪ Al mundo entero reunir ♪</span></p>
+<p xml:id="subtitle542" begin="23440800000t" end="23449200000t" region="region0"><span style="style1">¡Julia!</span></p>
+<p xml:id="subtitle543" begin="23454000000t" end="23473200000t" region="region0"><span style="style2">♪ y con todos cantar. ♪</span></p>
+<p xml:id="subtitle544" begin="23486400000t" end="23508000000t" region="region0"><span style="style2">- ♪ Y recorrer mirando al sol ♪</span><br/><span style="style1">- ¡Julia!</span></p>
+<p xml:id="subtitle545" begin="23508800000t" end="23546800000t" region="region0"><span style="style1">- Tienes que pensar en qué llevar.</span><br/><span style="style1">- </span><span style="style2">♪ la senda de la paz. ♪</span></p>
+<p xml:id="subtitle546" begin="23551600000t" end="23581200000t" region="region0"><span style="style1">- Julia, ¿me estás oyendo?</span><br/><span style="style2">- ♪ Al mundo entero quiero dar ♪</span></p>
+<p xml:id="subtitle547" begin="23582000000t" end="23618400000t" region="region0"><span style="style1">- Tienes que ir pensando en la maleta.</span><br/><span style="style2">- ♪ un luminoso hogar</span><span style="style1">.</span><span style="style2"> ♪</span></p>
+<p xml:id="subtitle548" begin="23619200000t" end="23658400000t" region="region0"><span style="style1">- Lo que no guardes se queda aquí.</span><br/><span style="style2">- ♪ Con un balcón donde un gorrión ♪</span></p>
+<p xml:id="subtitle549" begin="23659200000t" end="23677600001t" region="region0"><span style="style2">♪ les haga despertar. ♪</span></p>
+<p xml:id="subtitle550" begin="23678400000t" end="23687600001t" region="region0"><span style="style1">Sí, mamá.</span></p>
+<p xml:id="subtitle551" begin="23701200000t" end="23715200000t" region="region0"><span style="style1">[música inquietante]</span></p>
+<p xml:id="subtitle552" begin="24311200000t" end="24325200000t" region="region0"><span style="style1">[música suave de piano]</span></p>
+</div>
+</body>
+</tt>
